@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/beginer1
+/ed25519
+/ed25519.pub
 
 # testing
 /coverage
